@@ -9,4 +9,4 @@
 
 <img src="http://i.imgur.com/fOS8uNL.png" alt="Screenshot"></img>
 
-developed by Danny Connell
+Developed on the basis of David Okonell's <a href="http://www.dconnell.co.uk/blog/index.php/2012/08/02/notepad-color-scheme-for-sublime-text-2/">color scheme</a>
