@@ -8,3 +8,5 @@
 4. Then set in menu <strong>Preferences > Color scheme > User > Notepad++</strong>.
 
 <img src="http://i.imgur.com/fOS8uNL.png" alt="Screenshot"></img>
+
+development by Danny Connell
