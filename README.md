@@ -6,3 +6,5 @@
 2. In Sublime text open <strong>Preferences > Browse Packages...</strong> ;
 3. Put file to <strong>/User/</strong>
 4. Then set in menu <strong>Preferences > Color scheme > User > Notepad++</strong>.
+
+<img src="http://i.imgur.com/fOS8uNL.png" alt="Screenshot"></img>
