@@ -2,7 +2,7 @@
  Color Scheme Notepad++ for Sublime Text 2/3
 
 ## Installation
-1. In Sublime text open "Preferences > Browse Packages..." ;
-2. Download file "Notepad++.tmTheme";
-3. Put file to <sublime folder>/Packages/User/
-4. Then set in menu "Preferences > Color scheme > User > Notepad++".
+1. Download file <strong>Notepad++.tmTheme</strong>;
+2. In Sublime text open <strong>Preferences > Browse Packages...</strong> ;
+3. Put file to <strong>/User/</strong>
+4. Then set in menu <strong>Preferences > Color scheme > User > Notepad++</strong>.
