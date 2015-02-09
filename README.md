@@ -1,2 +1,2 @@
-# sublime-notepadpp-theme
- Color Scheme Notepad++ for Sumlime Text 2/3
+# Sublime Text Notepad++ Color scheme
+ Color Scheme Notepad++ for Sublime Text 2/3
