@@ -9,4 +9,4 @@
 
 <img src="http://i.imgur.com/fOS8uNL.png" alt="Screenshot"></img>
 
-development by Danny Connell
+developed by Danny Connell
